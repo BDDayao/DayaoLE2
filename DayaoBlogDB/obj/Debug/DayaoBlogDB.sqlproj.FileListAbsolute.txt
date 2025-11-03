@@ -1,0 +1,6 @@
+C:\Users\Perea Family\source\repos\DayaoBlogDB\bin\Debug\DayaoBlogDB.dacpac
+C:\Users\Perea Family\source\repos\DayaoBlogDB\obj\Debug\DayaoBlogDB.sqlproj.AssemblyReference.cache
+C:\Users\Perea Family\source\repos\DayaoBlogDB\obj\Debug\DayaoBlogDB.dll
+C:\Users\Perea Family\source\repos\DayaoBlogDB\obj\Debug\DayaoBlogDB.pdb
+C:\Users\Perea Family\source\repos\DayaoBlogDB\bin\Debug\DayaoBlogDB.dll
+C:\Users\Perea Family\source\repos\DayaoBlogDB\bin\Debug\DayaoBlogDB.pdb
